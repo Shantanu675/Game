@@ -23,11 +23,11 @@ Clone this repository or download the source code.
 
 Navigate to the project directory:
 
-    cd hangman-game
+    cd Hangman_Game
 
 Run the game:
 
-    python hangman.py
+    python Hangman_Game.py
 
 # How to Play
 
